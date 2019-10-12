@@ -1,2 +1,3 @@
-# OnShape-MR.github.io
-fHACKathory Lyon October 12, 2019
+# OnShape-MR project
+
+[OnShape-MR page](https://onshape-mr.github.io/)
