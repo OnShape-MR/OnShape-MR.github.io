@@ -4,6 +4,6 @@ layout: home
 
 <b> What is Onshape for Mixed Reality project?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/myeTj3Bg80Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/myeTj3Bg80Q?rel=0&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 [Download or clone the project ;)](https://github.com/OnShape-MR/Onshape-For-Mixed-Reality)
